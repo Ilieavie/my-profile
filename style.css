@@ -1,0 +1,192 @@
+.nav {
+
+    background-color: rgb(44, 43, 48);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#profile {
+    color: white;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#profile-links {
+    display: flex;
+
+}
+
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 500px;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+ul a {
+    color: white;
+}
+
+.btn {
+    background-color: rgb(70, 99, 177);
+    color: white;
+    font-size: larger;
+    box-shadow: 2px 2px black;
+    width: 125px;
+    height: 40px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+
+#card-header {
+    background-color: rgb(19, 154, 172);
+    width: 355px;
+    height: 100px;
+
+}
+#card-text {
+    margin: 20px;
+}
+
+#map-marker {
+    height: 50px;
+
+}
+
+#user-pic {
+    height: 90px;
+    margin-top: -50px;
+    margin-left: 20px;
+
+}
+#education-card {
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightgray;
+    width: 355px;
+    
+}
+.box { 
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightgray;
+    width: 355px;
+    margin: 30px;
+}
+.rbox { 
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightgray;
+    width: 210px;
+    margin: 30px;
+    
+}
+
+
+#education {
+    color: white;
+    background-color: black;
+    width: 330px;
+    height: 30px;
+    padding: 5px;
+    font-size: larger;
+    padding-left: 20px;
+    
+}
+
+#edu-date {
+    color: gray;
+}
+
+#credentials {
+    color: black;
+}
+
+#cr-box {}
+
+#cr-line {
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 30px;
+    padding: 5px;
+    font-size: larger;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#name1 {
+    display: flex;
+    justify-content:space-between;
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+    
+}
+
+#circletod {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.checkx {
+    display: flex;
+    
+}
+
+.usercircle {
+    size: 10px;
+}
+
+#name2 {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+}
+
+#circlephil {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#yourconnectionsline {
+        color: white;
+        background-color: black;
+        width: 200px;
+        height: 30px;
+        padding: 5px;
+        font-size: larger;
+        display: flex;
+        justify-content: space-evenly;
+    }
+.cname {
+    display: flex;
+    width: 200px;
+    height: 30px;
+    padding: 10px;}
+
+
+#container {
+    display: flex;
+    justify-content: center;
+
+
+}
+#educationinfo {
+    margin: 20px;
+}
+#user-card {
+    height:375px
+}
